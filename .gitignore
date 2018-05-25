@@ -52,7 +52,7 @@ fabric.properties
 .idea/httpRequests
 
 # wav&tgz:
-* .wav
+*.wav
 1.tgz
 2.tgz
 3.tgz
