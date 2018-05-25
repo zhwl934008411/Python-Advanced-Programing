@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<data>
+  <country name = "Liechtenstein">
+    <rank updated="yes">2</rank>
+    <year>2008</year>
+    <gbppc>141100</gbppc>
+    <neighbor name="Austria" direction="E"/>
+    <neighbor name="Switzerland" direction="W"/>
+  </country>
+  <country name = "Singapore">
+    <rank updated="yes">5</rank>
+    <year>2011</year>
+    <gbppc>59900</gbppc>
+    <neighbor name="Malaysia" direction="N"/>
+  </country>
+  <country name = "Panama">
+    <rank updated="yes">69</rank>
+    <year>2011</year>
+    <gbppc>13600</gbppc>
+    <neighbor name="Costa Rice" direction="W"/>
+    <neighbor name="Colombia" direction="E"/>
+  </country>
+</data>
